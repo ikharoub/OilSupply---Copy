@@ -28,7 +28,7 @@ const drawSlide = (slide)=>{
         <div class="product-item-desc" >
             ${slide.desc}
         </div>
-        <a class="explore-products" href="./Products.html" >
+        <a class="explore-products" href="./products.html" >
                     Explore More
                     &#10230;
         </a>
